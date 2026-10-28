@@ -1,0 +1,3201 @@
+{
+  "export_date": "2026-10-28T16:06:06.431Z",
+  "steamid64": "76561198050969295",
+  "vanity": "-",
+  "personaname": "76561198050969295",
+  "profile_url": "https://steamcommunity.com/profiles/76561198050969295/",
+  "avatar_url": "https://avatars.steamstatic.com/e2e0ddd4fbb464eaa08c7d9727d6411b3f6730ad_full.jpg",
+  "statistics": {
+    "total_hours": 6247.9,
+    "total_games": 636,
+    "unplayed_games": 193,
+    "average_hours": 14.1,
+    "most_played": {
+      "name": "Void War",
+      "hours": 514.5
+    }
+  },
+  "games": [
+    {
+      "name": "Void War",
+      "playtime_hours": 514.5,
+      "appid": 2853590
+    },
+    {
+      "name": "Magic: The Gathering - Duels of the Planeswalkers 2013",
+      "playtime_hours": 412.2,
+      "appid": 97330
+    },
+    {
+      "name": "Warhammer Age of Sigmar: Champions",
+      "playtime_hours": 401.8,
+      "appid": 988480
+    },
+    {
+      "name": "Spelunky",
+      "playtime_hours": 392.5,
+      "appid": 239350
+    },
+    {
+      "name": "Vagante",
+      "playtime_hours": 363.8,
+      "appid": 323220
+    },
+    {
+      "name": "Grim Dawn",
+      "playtime_hours": 330.1,
+      "appid": 219990
+    },
+    {
+      "name": "Warhammer 40,000: Warpforge",
+      "playtime_hours": 211.5,
+      "appid": 1985170
+    },
+    {
+      "name": "Magic Duels",
+      "playtime_hours": 202.3,
+      "appid": 316010
+    },
+    {
+      "name": "Overlewd",
+      "playtime_hours": 134.3,
+      "appid": 2308870
+    },
+    {
+      "name": "Magic 2014",
+      "playtime_hours": 130.4,
+      "appid": 213850
+    },
+    {
+      "name": "Magic: The Gathering — Duels of the Planeswalkers 2012",
+      "playtime_hours": 124.7,
+      "appid": 49470
+    },
+    {
+      "name": "Dirty League",
+      "playtime_hours": 106.2,
+      "appid": 3017450
+    },
+    {
+      "name": "Grand Theft Auto V Legacy",
+      "playtime_hours": 105.1,
+      "appid": 271590
+    },
+    {
+      "name": "Grand Theft Auto IV: The Complete Edition",
+      "playtime_hours": 91.9,
+      "appid": 12210
+    },
+    {
+      "name": "Insurgency",
+      "playtime_hours": 72.2,
+      "appid": 222880
+    },
+    {
+      "name": "Spelunky 2",
+      "playtime_hours": 61.4,
+      "appid": 418530
+    },
+    {
+      "name": "Counter-Strike 2",
+      "playtime_hours": 59,
+      "appid": 730
+    },
+    {
+      "name": "Bygone Dreams: Prophecy",
+      "playtime_hours": 54.7,
+      "appid": 3493780
+    },
+    {
+      "name": "Warhammer Horus Heresy: Legions",
+      "playtime_hours": 54.4,
+      "appid": 1031140
+    },
+    {
+      "name": "Warhammer Combat Cards",
+      "playtime_hours": 54,
+      "appid": 1641990
+    },
+    {
+      "name": "Chivalry: Medieval Warfare",
+      "playtime_hours": 48.9,
+      "appid": 219640
+    },
+    {
+      "name": "Max Payne",
+      "playtime_hours": 44.9,
+      "appid": 12140
+    },
+    {
+      "name": "Magic: The Gathering Arena",
+      "playtime_hours": 43.4,
+      "appid": 2141910
+    },
+    {
+      "name": "Spooky Bonus",
+      "playtime_hours": 41.3,
+      "appid": 388450
+    },
+    {
+      "name": "Darkest Dungeon®",
+      "playtime_hours": 39.5,
+      "appid": 262060
+    },
+    {
+      "name": "Warhammer 40,000: Dawn of War II - Retribution",
+      "playtime_hours": 38.6,
+      "appid": 56400
+    },
+    {
+      "name": "Albion Online",
+      "playtime_hours": 37.4,
+      "appid": 761890
+    },
+    {
+      "name": "Magic 2015",
+      "playtime_hours": 36.1,
+      "appid": 255420
+    },
+    {
+      "name": "Ghost Master",
+      "playtime_hours": 35.9,
+      "appid": 6200
+    },
+    {
+      "name": "Lust Goddess",
+      "playtime_hours": 34.4,
+      "appid": 2808930
+    },
+    {
+      "name": "Neverwinter Nights: Enhanced Edition",
+      "playtime_hours": 34.2,
+      "appid": 704450
+    },
+    {
+      "name": "NightSky",
+      "playtime_hours": 33.9,
+      "appid": 99700
+    },
+    {
+      "name": "Mai: Child of Ages",
+      "playtime_hours": 33.8,
+      "appid": 3499550
+    },
+    {
+      "name": "Halls of Torment",
+      "playtime_hours": 33.5,
+      "appid": 2218750
+    },
+    {
+      "name": "Path of Exile",
+      "playtime_hours": 33.5,
+      "appid": 238960
+    },
+    {
+      "name": "Max Payne 2: The Fall of Max Payne",
+      "playtime_hours": 31.6,
+      "appid": 12150
+    },
+    {
+      "name": "Cubicle Quest",
+      "playtime_hours": 31.4,
+      "appid": 349500
+    },
+    {
+      "name": "Warframe",
+      "playtime_hours": 30.9,
+      "appid": 230410
+    },
+    {
+      "name": "SMITE",
+      "playtime_hours": 30.9,
+      "appid": 386360
+    },
+    {
+      "name": "Eternal Return",
+      "playtime_hours": 30.9,
+      "appid": 1049590
+    },
+    {
+      "name": "Delta Force",
+      "playtime_hours": 30.9,
+      "appid": 2507950
+    },
+    {
+      "name": "Max Payne 3",
+      "playtime_hours": 30.9,
+      "appid": 204100
+    },
+    {
+      "name": "MARVEL SNAP",
+      "playtime_hours": 30.8,
+      "appid": 1997040
+    },
+    {
+      "name": "Metro 2033 Redux",
+      "playtime_hours": 29.3,
+      "appid": 286690
+    },
+    {
+      "name": "Loss Prevention Demo",
+      "playtime_hours": 29.1,
+      "appid": 4335770
+    },
+    {
+      "name": "Halls of Torment Prelude",
+      "playtime_hours": 29,
+      "appid": 2316660
+    },
+    {
+      "name": "Hitman: Absolution",
+      "playtime_hours": 28.6,
+      "appid": 203140
+    },
+    {
+      "name": "Warhammer 40,000: Dawn of War II - Anniversary Edition",
+      "playtime_hours": 27.8,
+      "appid": 15620
+    },
+    {
+      "name": "Titan Quest: Immortal Throne",
+      "playtime_hours": 27.7,
+      "appid": 4550
+    },
+    {
+      "name": "L.A. Noire",
+      "playtime_hours": 27.6,
+      "appid": 110800
+    },
+    {
+      "name": "Vampire: The Masquerade - Bloodlines",
+      "playtime_hours": 26.3,
+      "appid": 2600
+    },
+    {
+      "name": "SpaceChem",
+      "playtime_hours": 25.6,
+      "appid": 92800
+    },
+    {
+      "name": "Hard West",
+      "playtime_hours": 25.3,
+      "appid": 307670
+    },
+    {
+      "name": "Crysis",
+      "playtime_hours": 24.2,
+      "appid": 17300
+    },
+    {
+      "name": "HITMAN™",
+      "playtime_hours": 22.9,
+      "appid": 236870
+    },
+    {
+      "name": "Styx: Master of Shadows",
+      "playtime_hours": 22,
+      "appid": 242640
+    },
+    {
+      "name": "Desktop Dungeons",
+      "playtime_hours": 21.9,
+      "appid": 226620
+    },
+    {
+      "name": "Thief",
+      "playtime_hours": 21.8,
+      "appid": 239160
+    },
+    {
+      "name": "Grand Theft Auto: Vice City",
+      "playtime_hours": 21.6,
+      "appid": 12110
+    },
+    {
+      "name": "Gremlins, Inc.",
+      "playtime_hours": 21.5,
+      "appid": 369990
+    },
+    {
+      "name": "The RPG: My First Dungeon Smells",
+      "playtime_hours": 20.8,
+      "appid": 2361480
+    },
+    {
+      "name": "Heroes of Annihilated Empires",
+      "playtime_hours": 19.1,
+      "appid": 4800
+    },
+    {
+      "name": "Frozen Synapse",
+      "playtime_hours": 18.3,
+      "appid": 98200
+    },
+    {
+      "name": "Metro: Last Light Redux",
+      "playtime_hours": 17.5,
+      "appid": 287390
+    },
+    {
+      "name": "Stoneshard: Prologue",
+      "playtime_hours": 17.4,
+      "appid": 869760
+    },
+    {
+      "name": "Thief: Deadly Shadows",
+      "playtime_hours": 17.4,
+      "appid": 6980
+    },
+    {
+      "name": "Primordia",
+      "playtime_hours": 16.7,
+      "appid": 227000
+    },
+    {
+      "name": "Crysis 2 Maximum Edition",
+      "playtime_hours": 16.1,
+      "appid": 108800
+    },
+    {
+      "name": "HITMAN™ 2",
+      "playtime_hours": 15.7,
+      "appid": 863550
+    },
+    {
+      "name": "Ironclad Tactics",
+      "playtime_hours": 14.8,
+      "appid": 226960
+    },
+    {
+      "name": "GemCraft - Chasing Shadows",
+      "playtime_hours": 14.7,
+      "appid": 296490
+    },
+    {
+      "name": "Dishonored RHCP",
+      "playtime_hours": 14.7,
+      "appid": 217980
+    },
+    {
+      "name": "Ori and the Blind Forest",
+      "playtime_hours": 14.7,
+      "appid": 261570
+    },
+    {
+      "name": "Scribblenauts Unlimited",
+      "playtime_hours": 13.9,
+      "appid": 218680
+    },
+    {
+      "name": "Super Fantasy Kingdom",
+      "playtime_hours": 13.5,
+      "appid": 2289750
+    },
+    {
+      "name": "Mafia II (Classic)",
+      "playtime_hours": 12.4,
+      "appid": 50130
+    },
+    {
+      "name": "Closure",
+      "playtime_hours": 12.2,
+      "appid": 72000
+    },
+    {
+      "name": "Amazons vs Zombies",
+      "playtime_hours": 11.6,
+      "appid": 4103710
+    },
+    {
+      "name": "Elder Sign: Omens",
+      "playtime_hours": 11.5,
+      "appid": 257670
+    },
+    {
+      "name": "Magrunner: Dark Pulse",
+      "playtime_hours": 11.3,
+      "appid": 209630
+    },
+    {
+      "name": "Mark of the Ninja",
+      "playtime_hours": 11.3,
+      "appid": 214560
+    },
+    {
+      "name": "Reus",
+      "playtime_hours": 11,
+      "appid": 222730
+    },
+    {
+      "name": "Subnautica",
+      "playtime_hours": 10.9,
+      "appid": 264710
+    },
+    {
+      "name": "Titan Quest Anniversary Edition",
+      "playtime_hours": 10.8,
+      "appid": 475150
+    },
+    {
+      "name": "Tom Clancy's Splinter Cell",
+      "playtime_hours": 10.7,
+      "appid": 13560
+    },
+    {
+      "name": "Ironbound",
+      "playtime_hours": 10.5,
+      "appid": 643980
+    },
+    {
+      "name": "Disciples II: Gallean's Return",
+      "playtime_hours": 10.5,
+      "appid": 1640
+    },
+    {
+      "name": "Warhammer 40,000: Dawn of War II - Chaos Rising",
+      "playtime_hours": 10.3,
+      "appid": 20570
+    },
+    {
+      "name": "Zombie Night Terror",
+      "playtime_hours": 9.9,
+      "appid": 416680
+    },
+    {
+      "name": "Counter-Strike",
+      "playtime_hours": 9.9,
+      "appid": 10
+    },
+    {
+      "name": "Anodyne",
+      "playtime_hours": 9.5,
+      "appid": 234900
+    },
+    {
+      "name": "Shadowrun Returns",
+      "playtime_hours": 9.4,
+      "appid": 234650
+    },
+    {
+      "name": "Handmancers Demo",
+      "playtime_hours": 9.3,
+      "appid": 2451240
+    },
+    {
+      "name": "Infested Planet",
+      "playtime_hours": 9.3,
+      "appid": 204530
+    },
+    {
+      "name": "The Lord of the Rings Online™",
+      "playtime_hours": 9,
+      "appid": 212500
+    },
+    {
+      "name": "Sniper Elite 3",
+      "playtime_hours": 8.3,
+      "appid": 238090
+    },
+    {
+      "name": "METAL GEAR SOLID V: GROUND ZEROES",
+      "playtime_hours": 7.9,
+      "appid": 311340
+    },
+    {
+      "name": "Hell Clock",
+      "playtime_hours": 7.8,
+      "appid": 1782460
+    },
+    {
+      "name": "Far Cry® 3 Blood Dragon",
+      "playtime_hours": 7.5,
+      "appid": 233270
+    },
+    {
+      "name": "Skullgirls 2nd Encore",
+      "playtime_hours": 7.1,
+      "appid": 245170
+    },
+    {
+      "name": "From Dust",
+      "playtime_hours": 6.9,
+      "appid": 33460
+    },
+    {
+      "name": "Tom Clancy's Splinter Cell: Chaos Theory",
+      "playtime_hours": 6.7,
+      "appid": 13570
+    },
+    {
+      "name": "Spin Hero",
+      "playtime_hours": 6.7,
+      "appid": 2917350
+    },
+    {
+      "name": "Osmos",
+      "playtime_hours": 6.5,
+      "appid": 29180
+    },
+    {
+      "name": "Call of Juarez Gunslinger",
+      "playtime_hours": 6.3,
+      "appid": 204450
+    },
+    {
+      "name": "Belladonna",
+      "playtime_hours": 6.3,
+      "appid": 351340
+    },
+    {
+      "name": "Gunpoint",
+      "playtime_hours": 6.3,
+      "appid": 206190
+    },
+    {
+      "name": "Stoneshard",
+      "playtime_hours": 6.2,
+      "appid": 625960
+    },
+    {
+      "name": "Door Kickers",
+      "playtime_hours": 6.1,
+      "appid": 248610
+    },
+    {
+      "name": "Age of Wonders III",
+      "playtime_hours": 6.1,
+      "appid": 226840
+    },
+    {
+      "name": "Wait - Extended",
+      "playtime_hours": 5.8,
+      "appid": 347730
+    },
+    {
+      "name": "War for the Overworld",
+      "playtime_hours": 5.7,
+      "appid": 230190
+    },
+    {
+      "name": "Age of Wonders: Shadow Magic",
+      "playtime_hours": 5.7,
+      "appid": 61520
+    },
+    {
+      "name": "The Darkness II",
+      "playtime_hours": 5.6,
+      "appid": 67370
+    },
+    {
+      "name": "Space Rangers HD: A War Apart",
+      "playtime_hours": 5.3,
+      "appid": 214730
+    },
+    {
+      "name": "World of Warships",
+      "playtime_hours": 5.2,
+      "appid": 552990
+    },
+    {
+      "name": "The Swapper",
+      "playtime_hours": 5.1,
+      "appid": 231160
+    },
+    {
+      "name": "Crysis Warhead",
+      "playtime_hours": 5.1,
+      "appid": 17330
+    },
+    {
+      "name": "Chaos Reborn",
+      "playtime_hours": 5,
+      "appid": 319050
+    },
+    {
+      "name": "Evil Genius",
+      "playtime_hours": 4.9,
+      "appid": 3720
+    },
+    {
+      "name": "Deus Ex: Human Revolution",
+      "playtime_hours": 4.8,
+      "appid": 28050
+    },
+    {
+      "name": "Mythgard",
+      "playtime_hours": 4.8,
+      "appid": 839910
+    },
+    {
+      "name": "Smutstone Demo",
+      "playtime_hours": 4.8,
+      "appid": 3487680
+    },
+    {
+      "name": "Paper Sorcerer",
+      "playtime_hours": 4.7,
+      "appid": 263560
+    },
+    {
+      "name": "Lords of Xulima",
+      "playtime_hours": 4.7,
+      "appid": 296570
+    },
+    {
+      "name": "WAKFU",
+      "playtime_hours": 4.7,
+      "appid": 215080
+    },
+    {
+      "name": "Breathedge",
+      "playtime_hours": 4.6,
+      "appid": 738520
+    },
+    {
+      "name": "FTL: Faster Than Light",
+      "playtime_hours": 4.6,
+      "appid": 212680
+    },
+    {
+      "name": "Underrail",
+      "playtime_hours": 4.5,
+      "appid": 250520
+    },
+    {
+      "name": "Mark of the Ninja: Remastered",
+      "playtime_hours": 4.5,
+      "appid": 860950
+    },
+    {
+      "name": "Desperados - Wanted Dead or Alive",
+      "playtime_hours": 4.4,
+      "appid": 260730
+    },
+    {
+      "name": "Never Alone (Kisima Ingitchuna)",
+      "playtime_hours": 4.4,
+      "appid": 295790
+    },
+    {
+      "name": "Scribblenauts Unmasked",
+      "playtime_hours": 4.3,
+      "appid": 249870
+    },
+    {
+      "name": "Halfway",
+      "playtime_hours": 4.3,
+      "appid": 253150
+    },
+    {
+      "name": "Orbox C",
+      "playtime_hours": 4.2,
+      "appid": 544180
+    },
+    {
+      "name": "Age of Mythology: Extended Edition",
+      "playtime_hours": 4.2,
+      "appid": 266840
+    },
+    {
+      "name": "ENDLESS Legend™",
+      "playtime_hours": 4.2,
+      "appid": 289130
+    },
+    {
+      "name": "Suicide Guy",
+      "playtime_hours": 4.1,
+      "appid": 303610
+    },
+    {
+      "name": "Child of Light",
+      "playtime_hours": 4.1,
+      "appid": 256290
+    },
+    {
+      "name": "Tales of Maj'Eyal",
+      "playtime_hours": 4.1,
+      "appid": 259680
+    },
+    {
+      "name": "Aarklash: Legacy",
+      "playtime_hours": 4,
+      "appid": 222640
+    },
+    {
+      "name": "Dungeon of the ENDLESS™",
+      "playtime_hours": 4,
+      "appid": 249050
+    },
+    {
+      "name": "Control Craft 2",
+      "playtime_hours": 4,
+      "appid": 439930
+    },
+    {
+      "name": "EMPTY SHELL: PROLOGUE",
+      "playtime_hours": 4,
+      "appid": 2224850
+    },
+    {
+      "name": "Card City Nights",
+      "playtime_hours": 3.8,
+      "appid": 271820
+    },
+    {
+      "name": "Storm",
+      "playtime_hours": 3.7,
+      "appid": 231020
+    },
+    {
+      "name": "Haunt the House: Terrortown",
+      "playtime_hours": 3.6,
+      "appid": 270630
+    },
+    {
+      "name": "The Elder Scrolls: Legends",
+      "playtime_hours": 3.6,
+      "appid": 364470
+    },
+    {
+      "name": "Depth",
+      "playtime_hours": 3.5,
+      "appid": 274940
+    },
+    {
+      "name": "Dead District",
+      "playtime_hours": 3.5,
+      "appid": 1772910
+    },
+    {
+      "name": "Dungeons of Dredmor",
+      "playtime_hours": 3.3,
+      "appid": 98800
+    },
+    {
+      "name": "Crusader Kings II",
+      "playtime_hours": 3.2,
+      "appid": 203770
+    },
+    {
+      "name": "Wickland",
+      "playtime_hours": 3.2,
+      "appid": 321260
+    },
+    {
+      "name": "Sid Meier's Civilization VI",
+      "playtime_hours": 3.1,
+      "appid": 289070
+    },
+    {
+      "name": "Anoxemia",
+      "playtime_hours": 3.1,
+      "appid": 338050
+    },
+    {
+      "name": "Legend of Keepers",
+      "playtime_hours": 3.1,
+      "appid": 978520
+    },
+    {
+      "name": "Felix Jumpman",
+      "playtime_hours": 3.1,
+      "appid": 575920
+    },
+    {
+      "name": "Dead Island: Epidemic",
+      "playtime_hours": 3,
+      "appid": 222900
+    },
+    {
+      "name": "Operation swat",
+      "playtime_hours": 3,
+      "appid": 584780
+    },
+    {
+      "name": "Blades For Hire Demo",
+      "playtime_hours": 3,
+      "appid": 3180010
+    },
+    {
+      "name": "Kentucky Route Zero",
+      "playtime_hours": 3,
+      "appid": 231200
+    },
+    {
+      "name": "Coromon",
+      "playtime_hours": 3,
+      "appid": 1218210
+    },
+    {
+      "name": "Hard West 2",
+      "playtime_hours": 3,
+      "appid": 1282410
+    },
+    {
+      "name": "Mister Furry: Hot Muscles",
+      "playtime_hours": 3,
+      "appid": 1578220
+    },
+    {
+      "name": "Dungeons 2",
+      "playtime_hours": 3,
+      "appid": 262280
+    },
+    {
+      "name": "Planar Conquest",
+      "playtime_hours": 3,
+      "appid": 449300
+    },
+    {
+      "name": "Solium Infernum Demo",
+      "playtime_hours": 2.9,
+      "appid": 2571520
+    },
+    {
+      "name": "Shelter 69",
+      "playtime_hours": 2.9,
+      "appid": 1905950
+    },
+    {
+      "name": "Shadowrun: Dragonfall - Director's Cut",
+      "playtime_hours": 2.8,
+      "appid": 300550
+    },
+    {
+      "name": "ENDLESS Space™ - Definitive Edition",
+      "playtime_hours": 2.8,
+      "appid": 208140
+    },
+    {
+      "name": "Gnomoria",
+      "playtime_hours": 2.7,
+      "appid": 224500
+    },
+    {
+      "name": "Serial Cleaner",
+      "playtime_hours": 2.7,
+      "appid": 522210
+    },
+    {
+      "name": "Reveal The Deep",
+      "playtime_hours": 2.7,
+      "appid": 411560
+    },
+    {
+      "name": "Space Hulk (Classic)",
+      "playtime_hours": 2.7,
+      "appid": 242570
+    },
+    {
+      "name": "Warlock - Master of the Arcane",
+      "playtime_hours": 2.6,
+      "appid": 203630
+    },
+    {
+      "name": "Armored Kitten",
+      "playtime_hours": 2.6,
+      "appid": 713530
+    },
+    {
+      "name": "Steam Marines",
+      "playtime_hours": 2.6,
+      "appid": 253630
+    },
+    {
+      "name": "Circuits",
+      "playtime_hours": 2.6,
+      "appid": 282760
+    },
+    {
+      "name": "Fallen: A2P Protocol",
+      "playtime_hours": 2.6,
+      "appid": 325790
+    },
+    {
+      "name": "DiRT Rally",
+      "playtime_hours": 2.6,
+      "appid": 310560
+    },
+    {
+      "name": "Sporting Goods Shop: Prologue",
+      "playtime_hours": 2.5,
+      "appid": 3653260
+    },
+    {
+      "name": "Expeditions: Conquistador",
+      "playtime_hours": 2.5,
+      "appid": 237430
+    },
+    {
+      "name": "Bots Are Stupid Demo",
+      "playtime_hours": 2.5,
+      "appid": 1670110
+    },
+    {
+      "name": "Natural Selection 2",
+      "playtime_hours": 2.4,
+      "appid": 4920
+    },
+    {
+      "name": "Eador. Genesis",
+      "playtime_hours": 2.4,
+      "appid": 235660
+    },
+    {
+      "name": "Tiny Bookshop Demo",
+      "playtime_hours": 2.4,
+      "appid": 3002280
+    },
+    {
+      "name": "Banished",
+      "playtime_hours": 2.3,
+      "appid": 242920
+    },
+    {
+      "name": "Black Mesa",
+      "playtime_hours": 2.3,
+      "appid": 362890
+    },
+    {
+      "name": "BioShock Infinite",
+      "playtime_hours": 2.3,
+      "appid": 8870
+    },
+    {
+      "name": "Tree of Savior (English Ver.)",
+      "playtime_hours": 2.3,
+      "appid": 372000
+    },
+    {
+      "name": "Blades & Trades Demo",
+      "playtime_hours": 2.3,
+      "appid": 4665220
+    },
+    {
+      "name": "The First Pixel Demo",
+      "playtime_hours": 2.3,
+      "appid": 5295310
+    },
+    {
+      "name": "Sir, You Are Being Hunted",
+      "playtime_hours": 2.2,
+      "appid": 242880
+    },
+    {
+      "name": "Invisible, Inc.",
+      "playtime_hours": 2.2,
+      "appid": 243970
+    },
+    {
+      "name": "Jalopy",
+      "playtime_hours": 2.2,
+      "appid": 446020
+    },
+    {
+      "name": "Face Noir",
+      "playtime_hours": 2.2,
+      "appid": 244690
+    },
+    {
+      "name": "Isekai: Waifu Overlord",
+      "playtime_hours": 2.2,
+      "appid": 3850550
+    },
+    {
+      "name": "Caribbean Legend: Sandbox",
+      "playtime_hours": 2.2,
+      "appid": 1782680
+    },
+    {
+      "name": "Skelethrone: The Prey",
+      "playtime_hours": 2.2,
+      "appid": 2139870
+    },
+    {
+      "name": "Tower Escape",
+      "playtime_hours": 2.1,
+      "appid": 2009860
+    },
+    {
+      "name": "Tomb of Tyrants",
+      "playtime_hours": 2.1,
+      "appid": 340360
+    },
+    {
+      "name": "KHOLAT",
+      "playtime_hours": 2.1,
+      "appid": 343710
+    },
+    {
+      "name": "Once in Yaissor",
+      "playtime_hours": 2.1,
+      "appid": 553790
+    },
+    {
+      "name": "BattleTrucks",
+      "playtime_hours": 2.1,
+      "appid": 601590
+    },
+    {
+      "name": "Killer: Infected One of Us",
+      "playtime_hours": 2.1,
+      "appid": 1453840
+    },
+    {
+      "name": "Elysium: Blood Games",
+      "playtime_hours": 2.1,
+      "appid": 430080
+    },
+    {
+      "name": "Slavistan",
+      "playtime_hours": 2.1,
+      "appid": 504770
+    },
+    {
+      "name": "Griftlands",
+      "playtime_hours": 2.1,
+      "appid": 601840
+    },
+    {
+      "name": "Tales from Space: Mutant Blobs Attack",
+      "playtime_hours": 2,
+      "appid": 206370
+    },
+    {
+      "name": "The Banner Saga",
+      "playtime_hours": 2,
+      "appid": 237990
+    },
+    {
+      "name": "The Foretold: Exordium",
+      "playtime_hours": 2,
+      "appid": 2432680
+    },
+    {
+      "name": "Gone: Survival",
+      "playtime_hours": 2,
+      "appid": 1270010
+    },
+    {
+      "name": "112 Operator",
+      "playtime_hours": 2,
+      "appid": 793460
+    },
+    {
+      "name": "ScourgeBringer",
+      "playtime_hours": 2,
+      "appid": 1037020
+    },
+    {
+      "name": "Market Tycoon",
+      "playtime_hours": 2,
+      "appid": 563360
+    },
+    {
+      "name": "Planetoid",
+      "playtime_hours": 2,
+      "appid": 590870
+    },
+    {
+      "name": "Banners of Ruin",
+      "playtime_hours": 2,
+      "appid": 1075740
+    },
+    {
+      "name": "9 Kings Demo",
+      "playtime_hours": 2,
+      "appid": 3122250
+    },
+    {
+      "name": "Caliper",
+      "playtime_hours": 2,
+      "appid": 581840
+    },
+    {
+      "name": "ENDLESS Space™ 2",
+      "playtime_hours": 1.9,
+      "appid": 392110
+    },
+    {
+      "name": "Costume Quest",
+      "playtime_hours": 1.9,
+      "appid": 115100
+    },
+    {
+      "name": "Shadow Warrior",
+      "playtime_hours": 1.9,
+      "appid": 233130
+    },
+    {
+      "name": "Eldritch",
+      "playtime_hours": 1.9,
+      "appid": 252630
+    },
+    {
+      "name": "Oknytt",
+      "playtime_hours": 1.9,
+      "appid": 286320
+    },
+    {
+      "name": "StarCrawlers",
+      "playtime_hours": 1.9,
+      "appid": 318970
+    },
+    {
+      "name": "Layers of Fear (2016)",
+      "playtime_hours": 1.9,
+      "appid": 391720
+    },
+    {
+      "name": "Company of Heroes 2",
+      "playtime_hours": 1.9,
+      "appid": 231430
+    },
+    {
+      "name": "Akin",
+      "playtime_hours": 1.9,
+      "appid": 487370
+    },
+    {
+      "name": "Summer in Mara",
+      "playtime_hours": 1.9,
+      "appid": 962580
+    },
+    {
+      "name": "Silicone-2",
+      "playtime_hours": 1.9,
+      "appid": 343690
+    },
+    {
+      "name": "Through Abandoned: The Underground City",
+      "playtime_hours": 1.9,
+      "appid": 389270
+    },
+    {
+      "name": "Mudborne",
+      "playtime_hours": 1.9,
+      "appid": 2355150
+    },
+    {
+      "name": "Legend of Keepers: Prologue",
+      "playtime_hours": 1.9,
+      "appid": 1151080
+    },
+    {
+      "name": "Uncanny Tales: 1992",
+      "playtime_hours": 1.9,
+      "appid": 3686940
+    },
+    {
+      "name": "FLY'N",
+      "playtime_hours": 1.9,
+      "appid": 223730
+    },
+    {
+      "name": "Shogun Showdown: Prologue",
+      "playtime_hours": 1.8,
+      "appid": 2316330
+    },
+    {
+      "name": "Train Simulator Classic",
+      "playtime_hours": 1.8,
+      "appid": 24010
+    },
+    {
+      "name": "Skulls of the Shogun",
+      "playtime_hours": 1.8,
+      "appid": 228960
+    },
+    {
+      "name": "Nyasha",
+      "playtime_hours": 1.8,
+      "appid": 1035930
+    },
+    {
+      "name": "Eador. Masters of the Broken World",
+      "playtime_hours": 1.8,
+      "appid": 232050
+    },
+    {
+      "name": "The Last Door - Collector's Edition",
+      "playtime_hours": 1.8,
+      "appid": 284390
+    },
+    {
+      "name": "Guacamelee! Gold Edition",
+      "playtime_hours": 1.8,
+      "appid": 214770
+    },
+    {
+      "name": "He is Coming Demo",
+      "playtime_hours": 1.8,
+      "appid": 2984660
+    },
+    {
+      "name": "Cubemen 2",
+      "playtime_hours": 1.7,
+      "appid": 228440
+    },
+    {
+      "name": "Etherlords II",
+      "playtime_hours": 1.7,
+      "appid": 270790
+    },
+    {
+      "name": "Freedom Force",
+      "playtime_hours": 1.7,
+      "appid": 8880
+    },
+    {
+      "name": "MURDERED: SOUL SUSPECT™",
+      "playtime_hours": 1.7,
+      "appid": 233290
+    },
+    {
+      "name": "Race The Sun",
+      "playtime_hours": 1.7,
+      "appid": 253030
+    },
+    {
+      "name": "Necrosmith",
+      "playtime_hours": 1.7,
+      "appid": 1949190
+    },
+    {
+      "name": "Thea: The Awakening",
+      "playtime_hours": 1.7,
+      "appid": 378720
+    },
+    {
+      "name": "BioShock 2 Remastered",
+      "playtime_hours": 1.7,
+      "appid": 409720
+    },
+    {
+      "name": "Torchlight II",
+      "playtime_hours": 1.6,
+      "appid": 200710
+    },
+    {
+      "name": "BioShock Remastered",
+      "playtime_hours": 1.6,
+      "appid": 409710
+    },
+    {
+      "name": "Train Valley 2",
+      "playtime_hours": 1.6,
+      "appid": 602320
+    },
+    {
+      "name": "Spirit of the North",
+      "playtime_hours": 1.6,
+      "appid": 1213700
+    },
+    {
+      "name": "Calvino Noir",
+      "playtime_hours": 1.6,
+      "appid": 316890
+    },
+    {
+      "name": "LineDash",
+      "playtime_hours": 1.6,
+      "appid": 497670
+    },
+    {
+      "name": "GRID 2",
+      "playtime_hours": 1.6,
+      "appid": 44350
+    },
+    {
+      "name": "The Age of Decadence",
+      "playtime_hours": 1.6,
+      "appid": 230070
+    },
+    {
+      "name": "Kitchen Simulator 2015",
+      "playtime_hours": 1.6,
+      "appid": 399230
+    },
+    {
+      "name": "Heaven Island - VR MMO",
+      "playtime_hours": 1.6,
+      "appid": 400250
+    },
+    {
+      "name": "StellarHub",
+      "playtime_hours": 1.6,
+      "appid": 672860
+    },
+    {
+      "name": "Sid Meier's Ace Patrol",
+      "playtime_hours": 1.6,
+      "appid": 244070
+    },
+    {
+      "name": "SteamWorld Dig",
+      "playtime_hours": 1.6,
+      "appid": 252410
+    },
+    {
+      "name": "Planet Coaster",
+      "playtime_hours": 1.6,
+      "appid": 493340
+    },
+    {
+      "name": "System Shock® 2 (1999)",
+      "playtime_hours": 1.5,
+      "appid": 238210
+    },
+    {
+      "name": "The Dark Stone from Mebara",
+      "playtime_hours": 1.5,
+      "appid": 346950
+    },
+    {
+      "name": "College Bound",
+      "playtime_hours": 1.5,
+      "appid": 1630080
+    },
+    {
+      "name": "Lord of the Dark Castle",
+      "playtime_hours": 1.5,
+      "appid": 349460
+    },
+    {
+      "name": "Dead Space (2008)",
+      "playtime_hours": 1.5,
+      "appid": 17470
+    },
+    {
+      "name": "Disciples II: Rise of the Elves",
+      "playtime_hours": 1.5,
+      "appid": 1630
+    },
+    {
+      "name": "Elemental Girls",
+      "playtime_hours": 1.5,
+      "appid": 1079310
+    },
+    {
+      "name": "Astronarch",
+      "playtime_hours": 1.4,
+      "appid": 1234940
+    },
+    {
+      "name": "Quiet Bloom Demo",
+      "playtime_hours": 1.4,
+      "appid": 5324830
+    },
+    {
+      "name": "POBEDA",
+      "playtime_hours": 1.4,
+      "appid": 623580
+    },
+    {
+      "name": "Rhythm Hotel Demo",
+      "playtime_hours": 1.4,
+      "appid": 3803790
+    },
+    {
+      "name": "Cats In The Shell Demo",
+      "playtime_hours": 1.4,
+      "appid": 4822560
+    },
+    {
+      "name": "Redactem",
+      "playtime_hours": 1.4,
+      "appid": 502400
+    },
+    {
+      "name": "Bomb The Monsters!",
+      "playtime_hours": 1.4,
+      "appid": 355020
+    },
+    {
+      "name": "Sex, Please",
+      "playtime_hours": 1.3,
+      "appid": 2608620
+    },
+    {
+      "name": "Deep Eclipse",
+      "playtime_hours": 1.3,
+      "appid": 326990
+    },
+    {
+      "name": "SOVL",
+      "playtime_hours": 1.3,
+      "appid": 1870300
+    },
+    {
+      "name": "Antihero",
+      "playtime_hours": 1.3,
+      "appid": 505640
+    },
+    {
+      "name": "Skald: Against the Black Priory - the Prologue",
+      "playtime_hours": 1.3,
+      "appid": 1609100
+    },
+    {
+      "name": "HackHub Demo",
+      "playtime_hours": 1.3,
+      "appid": 3706990
+    },
+    {
+      "name": "Regimental Chess",
+      "playtime_hours": 1.3,
+      "appid": 362400
+    },
+    {
+      "name": "SUPER DISTRO",
+      "playtime_hours": 1.3,
+      "appid": 364690
+    },
+    {
+      "name": "Beat Cop",
+      "playtime_hours": 1.3,
+      "appid": 461950
+    },
+    {
+      "name": "Heaven Forest - VR MMO",
+      "playtime_hours": 1.3,
+      "appid": 476480
+    },
+    {
+      "name": "Star Merchant",
+      "playtime_hours": 1.2,
+      "appid": 594720
+    },
+    {
+      "name": "Driftland: The Magic Revival",
+      "playtime_hours": 1.2,
+      "appid": 718650
+    },
+    {
+      "name": "Rogue Lords",
+      "playtime_hours": 1.2,
+      "appid": 1069690
+    },
+    {
+      "name": "Pawnbarian",
+      "playtime_hours": 1.2,
+      "appid": 1142080
+    },
+    {
+      "name": "Capcom Arcade Stadium",
+      "playtime_hours": 1.2,
+      "appid": 1515950
+    },
+    {
+      "name": "Booty Farm",
+      "playtime_hours": 1.2,
+      "appid": 1941000
+    },
+    {
+      "name": "Laguna Rosa: A long story with reckless consequences Demo",
+      "playtime_hours": 1.2,
+      "appid": 5138120
+    },
+    {
+      "name": "LYSSA: Goddess of Rage Demo",
+      "playtime_hours": 1.2,
+      "appid": 5149080
+    },
+    {
+      "name": "Dirty Deal Demo",
+      "playtime_hours": 1.2,
+      "appid": 5175110
+    },
+    {
+      "name": "SexDriveIsekai Demo",
+      "playtime_hours": 1.2,
+      "appid": 5175290
+    },
+    {
+      "name": "Orange Cast",
+      "playtime_hours": 1.2,
+      "appid": 1194050
+    },
+    {
+      "name": "King's Bounty: The Legend",
+      "playtime_hours": 1.2,
+      "appid": 25900
+    },
+    {
+      "name": "Dungeons & Dragons Online®",
+      "playtime_hours": 1.2,
+      "appid": 206480
+    },
+    {
+      "name": "Hitman: Contracts",
+      "playtime_hours": 1.2,
+      "appid": 247430
+    },
+    {
+      "name": "Suicide Guy: Sleepin' Deeply",
+      "playtime_hours": 1.2,
+      "appid": 860860
+    },
+    {
+      "name": "Sex of Thrones 👑 Prologue",
+      "playtime_hours": 1.2,
+      "appid": 2756820
+    },
+    {
+      "name": "Space Survival",
+      "playtime_hours": 1.1,
+      "appid": 465190
+    },
+    {
+      "name": "Desolate",
+      "playtime_hours": 1.1,
+      "appid": 671510
+    },
+    {
+      "name": "Timen runner",
+      "playtime_hours": 1.1,
+      "appid": 623550
+    },
+    {
+      "name": "Sentience: The Android's Tale",
+      "playtime_hours": 1.1,
+      "appid": 635850
+    },
+    {
+      "name": "BoomTown! Deluxe",
+      "playtime_hours": 1.1,
+      "appid": 536750
+    },
+    {
+      "name": "UNLOVED",
+      "playtime_hours": 1.1,
+      "appid": 321270
+    },
+    {
+      "name": "LEWDAPOCALYPSE",
+      "playtime_hours": 1.1,
+      "appid": 1271710
+    },
+    {
+      "name": "Space Pilgrim Episode III: Delta Pavonis",
+      "playtime_hours": 1.1,
+      "appid": 439250
+    },
+    {
+      "name": "The Pegasus Expedition",
+      "playtime_hours": 1.1,
+      "appid": 1521070
+    },
+    {
+      "name": "Weable",
+      "playtime_hours": 1,
+      "appid": 683830
+    },
+    {
+      "name": "The Excavation of Hob's Barrow",
+      "playtime_hours": 1,
+      "appid": 1182310
+    },
+    {
+      "name": "Candy Smash VR",
+      "playtime_hours": 1,
+      "appid": 503900
+    },
+    {
+      "name": "69 Ways to Kill a Zombie",
+      "playtime_hours": 1,
+      "appid": 512410
+    },
+    {
+      "name": "Faery - Legends of Avalon",
+      "playtime_hours": 1,
+      "appid": 303790
+    },
+    {
+      "name": "EMPTY SHELL",
+      "playtime_hours": 1,
+      "appid": 2243110
+    },
+    {
+      "name": "Alan Wake",
+      "playtime_hours": 1,
+      "appid": 108710
+    },
+    {
+      "name": "Warhammer 40,000: Gladius - Relics of War",
+      "playtime_hours": 1,
+      "appid": 489630
+    },
+    {
+      "name": "Everlusting Life",
+      "playtime_hours": 1,
+      "appid": 3218710
+    },
+    {
+      "name": "Rencounter",
+      "playtime_hours": 1,
+      "appid": 431810
+    },
+    {
+      "name": "Midnight",
+      "playtime_hours": 1,
+      "appid": 431460
+    },
+    {
+      "name": "Battle Simulator: Counter Stickman",
+      "playtime_hours": 1,
+      "appid": 2623090
+    },
+    {
+      "name": "Decktamer",
+      "playtime_hours": 1,
+      "appid": 2870340
+    },
+    {
+      "name": "Worms Reloaded",
+      "playtime_hours": 0.9,
+      "appid": 22600
+    },
+    {
+      "name": "'n Verlore Verstand",
+      "playtime_hours": 0.9,
+      "appid": 439550
+    },
+    {
+      "name": "Archipelago",
+      "playtime_hours": 0.9,
+      "appid": 513720
+    },
+    {
+      "name": "Sandwalkers - Prologue",
+      "playtime_hours": 0.9,
+      "appid": 2995230
+    },
+    {
+      "name": "Bosslife Office Manager Demo",
+      "playtime_hours": 0.9,
+      "appid": 3770890
+    },
+    {
+      "name": "Sacred Gold",
+      "playtime_hours": 0.9,
+      "appid": 12320
+    },
+    {
+      "name": "Future Breach 64 Demo",
+      "playtime_hours": 0.9,
+      "appid": 3172210
+    },
+    {
+      "name": "Slutopia Demo",
+      "playtime_hours": 0.9,
+      "appid": 4612700
+    },
+    {
+      "name": "Lust Age Demo",
+      "playtime_hours": 0.9,
+      "appid": 4734810
+    },
+    {
+      "name": "Nudus Demo",
+      "playtime_hours": 0.9,
+      "appid": 4734830
+    },
+    {
+      "name": "Pizza House Simulator🍕 Demo",
+      "playtime_hours": 0.9,
+      "appid": 4776950
+    },
+    {
+      "name": "Dead Realm",
+      "playtime_hours": 0.8,
+      "appid": 352460
+    },
+    {
+      "name": "Puzzle Cube",
+      "playtime_hours": 0.8,
+      "appid": 539460
+    },
+    {
+      "name": "Elder Chaos",
+      "playtime_hours": 0.8,
+      "appid": 712000
+    },
+    {
+      "name": "Citizen Sleeper",
+      "playtime_hours": 0.8,
+      "appid": 1578650
+    },
+    {
+      "name": "Desire Inn",
+      "playtime_hours": 0.8,
+      "appid": 3956380
+    },
+    {
+      "name": "HELLCARD II Demo",
+      "playtime_hours": 0.8,
+      "appid": 5246950
+    },
+    {
+      "name": "Heretic's Fork",
+      "playtime_hours": 0.8,
+      "appid": 2181610
+    },
+    {
+      "name": "World Crafter TD: Prologue",
+      "playtime_hours": 0.8,
+      "appid": 3099690
+    },
+    {
+      "name": "Hitman: Blood Money",
+      "playtime_hours": 0.8,
+      "appid": 6860
+    },
+    {
+      "name": "Sunless Sea",
+      "playtime_hours": 0.8,
+      "appid": 304650
+    },
+    {
+      "name": "Through Abandoned: The Refuge",
+      "playtime_hours": 0.8,
+      "appid": 1012460
+    },
+    {
+      "name": "Half-Life",
+      "playtime_hours": 0.8,
+      "appid": 70
+    },
+    {
+      "name": "Heaven Forest NIGHTS",
+      "playtime_hours": 0.8,
+      "appid": 360970
+    },
+    {
+      "name": "Wanba Warriors",
+      "playtime_hours": 0.8,
+      "appid": 1021770
+    },
+    {
+      "name": "None Shall Intrude: Descent",
+      "playtime_hours": 0.8,
+      "appid": 3024640
+    },
+    {
+      "name": "Mafia II: Definitive Edition",
+      "playtime_hours": 0.8,
+      "appid": 1030830
+    },
+    {
+      "name": "Arcane Eats Demo",
+      "playtime_hours": 0.8,
+      "appid": 3528960
+    },
+    {
+      "name": "Black Jacket Demo",
+      "playtime_hours": 0.8,
+      "appid": 4100440
+    },
+    {
+      "name": "Horny Waifu: Kaiju Strike",
+      "playtime_hours": 0.8,
+      "appid": 4174910
+    },
+    {
+      "name": "Reverse Crawl",
+      "playtime_hours": 0.7,
+      "appid": 400660
+    },
+    {
+      "name": "Tempest",
+      "playtime_hours": 0.7,
+      "appid": 418180
+    },
+    {
+      "name": "Gentlemen's Club",
+      "playtime_hours": 0.7,
+      "appid": 1717170
+    },
+    {
+      "name": "Satellite Repairman",
+      "playtime_hours": 0.7,
+      "appid": 567780
+    },
+    {
+      "name": "Mini Thief",
+      "playtime_hours": 0.7,
+      "appid": 481870
+    },
+    {
+      "name": "Ultimate Zombie Defense",
+      "playtime_hours": 0.7,
+      "appid": 1035510
+    },
+    {
+      "name": "Broken Hearts Island",
+      "playtime_hours": 0.7,
+      "appid": 2499420
+    },
+    {
+      "name": "Smutstone",
+      "playtime_hours": 0.7,
+      "appid": 3330500
+    },
+    {
+      "name": "Linked",
+      "playtime_hours": 0.7,
+      "appid": 596590
+    },
+    {
+      "name": "Kinky Cats",
+      "playtime_hours": 0.7,
+      "appid": 3339200
+    },
+    {
+      "name": "Space Pilgrim Episode II: Epsilon Indi",
+      "playtime_hours": 0.6,
+      "appid": 431710
+    },
+    {
+      "name": "Fishermurs",
+      "playtime_hours": 0.6,
+      "appid": 564210
+    },
+    {
+      "name": "Tabletop Game Shop Simulator Demo",
+      "playtime_hours": 0.6,
+      "appid": 3919260
+    },
+    {
+      "name": "Wet Wealth",
+      "playtime_hours": 0.6,
+      "appid": 4293850
+    },
+    {
+      "name": "Woodle Tree 2: Deluxe+",
+      "playtime_hours": 0.6,
+      "appid": 1173740
+    },
+    {
+      "name": "Heroes of Lust and Magic",
+      "playtime_hours": 0.6,
+      "appid": 4636370
+    },
+    {
+      "name": "Intravenous",
+      "playtime_hours": 0.6,
+      "appid": 1486630
+    },
+    {
+      "name": "Thyria Demo",
+      "playtime_hours": 0.6,
+      "appid": 2819820
+    },
+    {
+      "name": "Desire Empire",
+      "playtime_hours": 0.6,
+      "appid": 4651940
+    },
+    {
+      "name": "A Game of Changes",
+      "playtime_hours": 0.6,
+      "appid": 467090
+    },
+    {
+      "name": "Ale & Tale Tavern: First Pints",
+      "playtime_hours": 0.6,
+      "appid": 2870840
+    },
+    {
+      "name": "Astro Lords",
+      "playtime_hours": 0.5,
+      "appid": 385530
+    },
+    {
+      "name": "Square n Fair",
+      "playtime_hours": 0.5,
+      "appid": 575680
+    },
+    {
+      "name": "Sexy Airlines EVO",
+      "playtime_hours": 0.5,
+      "appid": 1745200
+    },
+    {
+      "name": "The Mildew Children: Chapter 1",
+      "playtime_hours": 0.5,
+      "appid": 2420330
+    },
+    {
+      "name": "HackHub: Free Trial",
+      "playtime_hours": 0.5,
+      "appid": 3022810
+    },
+    {
+      "name": "Mafia Queens",
+      "playtime_hours": 0.5,
+      "appid": 4193390
+    },
+    {
+      "name": "The Deed",
+      "playtime_hours": 0.5,
+      "appid": 420740
+    },
+    {
+      "name": "Control Craft 3",
+      "playtime_hours": 0.5,
+      "appid": 490910
+    },
+    {
+      "name": "Tower of Kalemonvo Demo",
+      "playtime_hours": 0.5,
+      "appid": 2606990
+    },
+    {
+      "name": "Harem of Lust: Battle Cards",
+      "playtime_hours": 0.5,
+      "appid": 3650160
+    },
+    {
+      "name": "Commandos 2: Men of Courage",
+      "playtime_hours": 0.5,
+      "appid": 6830
+    },
+    {
+      "name": "FEZ",
+      "playtime_hours": 0.5,
+      "appid": 224760
+    },
+    {
+      "name": "Faces of War",
+      "playtime_hours": 0.5,
+      "appid": 289300
+    },
+    {
+      "name": "Zombie Ballz",
+      "playtime_hours": 0.5,
+      "appid": 581970
+    },
+    {
+      "name": "Loki",
+      "playtime_hours": 0.5,
+      "appid": 7260
+    },
+    {
+      "name": "Journey to Alien Worlds",
+      "playtime_hours": 0.5,
+      "appid": 628960
+    },
+    {
+      "name": "Pussy Island",
+      "playtime_hours": 0.5,
+      "appid": 4235370
+    },
+    {
+      "name": "Fantasy Kingdom Simulator",
+      "playtime_hours": 0.5,
+      "appid": 482890
+    },
+    {
+      "name": "Ragnarok",
+      "playtime_hours": 0.5,
+      "appid": 215100
+    },
+    {
+      "name": "Survival Driver",
+      "playtime_hours": 0.5,
+      "appid": 586130
+    },
+    {
+      "name": "Meet My Teacher",
+      "playtime_hours": 0.5,
+      "appid": 2779460
+    },
+    {
+      "name": "Cubemen",
+      "playtime_hours": 0.4,
+      "appid": 207250
+    },
+    {
+      "name": "Risen Kingdom",
+      "playtime_hours": 0.4,
+      "appid": 1216880
+    },
+    {
+      "name": "Backpack Hero",
+      "playtime_hours": 0.4,
+      "appid": 1970580
+    },
+    {
+      "name": "Sex Coach: Hot Yoga - Prologue",
+      "playtime_hours": 0.4,
+      "appid": 2756830
+    },
+    {
+      "name": "Hold your houses",
+      "playtime_hours": 0.4,
+      "appid": 586790
+    },
+    {
+      "name": "Suicide Guy: The Lost Dreams",
+      "playtime_hours": 0.4,
+      "appid": 2423470
+    },
+    {
+      "name": "Crown Champion: Legends of the Arena",
+      "playtime_hours": 0.4,
+      "appid": 527710
+    },
+    {
+      "name": "Retail Company Simulator: Prologue",
+      "playtime_hours": 0.4,
+      "appid": 3089150
+    },
+    {
+      "name": "Deck of Haunts Demo",
+      "playtime_hours": 0.4,
+      "appid": 3313700
+    },
+    {
+      "name": "Battle Simulator: Counter Terrorist",
+      "playtime_hours": 0.4,
+      "appid": 4172560
+    },
+    {
+      "name": "Stickman 3D Wingsuit DELUXE",
+      "playtime_hours": 0.4,
+      "appid": 4450010
+    },
+    {
+      "name": "Suicide Guy Deluxe Plus",
+      "playtime_hours": 0.3,
+      "appid": 1972820
+    },
+    {
+      "name": "Future Breach: Youngblood",
+      "playtime_hours": 0.3,
+      "appid": 2575070
+    },
+    {
+      "name": "Caveman World: Mountains of Unga Boonga",
+      "playtime_hours": 0.3,
+      "appid": 462960
+    },
+    {
+      "name": "Commandos: Beyond the Call of Duty",
+      "playtime_hours": 0.3,
+      "appid": 6810
+    },
+    {
+      "name": "Dreamland",
+      "playtime_hours": 0.3,
+      "appid": 2176560
+    },
+    {
+      "name": "Galactic Civilizations II: Ultimate Edition",
+      "playtime_hours": 0.3,
+      "appid": 202200
+    },
+    {
+      "name": "Achron",
+      "playtime_hours": 0.2,
+      "appid": 109700
+    },
+    {
+      "name": "Sid Meier's Civilization III: Complete",
+      "playtime_hours": 0.2,
+      "appid": 3910
+    },
+    {
+      "name": "Big Bang Empire",
+      "playtime_hours": 0.2,
+      "appid": 510660
+    },
+    {
+      "name": "MEMOLOGY: GOYDA",
+      "playtime_hours": 0.2,
+      "appid": 2629330
+    },
+    {
+      "name": "Decks of the Damned Demo",
+      "playtime_hours": 0.2,
+      "appid": 2171380
+    },
+    {
+      "name": "Shadow Man",
+      "playtime_hours": 0.1,
+      "appid": 251770
+    },
+    {
+      "name": "Hot Brass",
+      "playtime_hours": 0.1,
+      "appid": 892860
+    },
+    {
+      "name": "Fantasy General II: Prologue",
+      "playtime_hours": 0.1,
+      "appid": 1286480
+    },
+    {
+      "name": "Five nights at Floppa",
+      "playtime_hours": 0.1,
+      "appid": 1878740
+    },
+    {
+      "name": "SEXTS",
+      "playtime_hours": 0.1,
+      "appid": 2279510
+    },
+    {
+      "name": "LoveCraft",
+      "playtime_hours": 0.1,
+      "appid": 2692440
+    },
+    {
+      "name": "Skullgirls ∞Endless Beta∞",
+      "playtime_hours": 0.1,
+      "appid": 208610
+    },
+    {
+      "name": "Startopia",
+      "playtime_hours": 0.1,
+      "appid": 243040
+    },
+    {
+      "name": "Black Mirror I",
+      "playtime_hours": 0.1,
+      "appid": 292930
+    },
+    {
+      "name": "Zen Bound® 2",
+      "playtime_hours": 0.1,
+      "appid": 61600
+    },
+    {
+      "name": "Titan Quest",
+      "playtime_hours": 0,
+      "appid": 4540
+    },
+    {
+      "name": "Solar 2",
+      "playtime_hours": 0,
+      "appid": 97000
+    },
+    {
+      "name": "Cavern of Dreams",
+      "playtime_hours": 0,
+      "appid": 2059660
+    },
+    {
+      "name": "Uplink",
+      "playtime_hours": 0,
+      "appid": 1510
+    },
+    {
+      "name": "Jagged Alliance 2: Gold Pack",
+      "playtime_hours": 0,
+      "appid": 12370
+    },
+    {
+      "name": "Thief Gold",
+      "playtime_hours": 0,
+      "appid": 211600
+    },
+    {
+      "name": "Thief™ II: The Metal Age",
+      "playtime_hours": 0,
+      "appid": 211740
+    },
+    {
+      "name": "Mortal Kombat Komplete Edition",
+      "playtime_hours": 0,
+      "appid": 237110
+    },
+    {
+      "name": "Hentai Bad Girls",
+      "playtime_hours": 0,
+      "appid": 1111030
+    },
+    {
+      "name": "Hentai Furry",
+      "playtime_hours": 0,
+      "appid": 1260390
+    },
+    {
+      "name": "WARCANA",
+      "playtime_hours": 0,
+      "appid": 2022930
+    },
+    {
+      "name": "EXIT KUN",
+      "playtime_hours": 0,
+      "appid": 2781370
+    },
+    {
+      "name": "Counter-Strike: Condition Zero",
+      "playtime_hours": 0,
+      "appid": 80
+    },
+    {
+      "name": "Counter-Strike: Condition Zero Deleted Scenes",
+      "playtime_hours": 0,
+      "appid": 100
+    },
+    {
+      "name": "Half-Life 2",
+      "playtime_hours": 0,
+      "appid": 220
+    },
+    {
+      "name": "Half-Life 2: Deathmatch",
+      "playtime_hours": 0,
+      "appid": 320
+    },
+    {
+      "name": "Half-Life Deathmatch: Source",
+      "playtime_hours": 0,
+      "appid": 360
+    },
+    {
+      "name": "Aliens versus Predator Classic 2000",
+      "playtime_hours": 0,
+      "appid": 3730
+    },
+    {
+      "name": "Eets",
+      "playtime_hours": 0,
+      "appid": 6100
+    },
+    {
+      "name": "Commandos: Behind Enemy Lines",
+      "playtime_hours": 0,
+      "appid": 6800
+    },
+    {
+      "name": "Commandos 3: Destination Berlin",
+      "playtime_hours": 0,
+      "appid": 6840
+    },
+    {
+      "name": "Deus Ex: Game of the Year Edition",
+      "playtime_hours": 0,
+      "appid": 6910
+    },
+    {
+      "name": "BioShock",
+      "playtime_hours": 0,
+      "appid": 7670
+    },
+    {
+      "name": "X-COM: UFO Defense",
+      "playtime_hours": 0,
+      "appid": 7760
+    },
+    {
+      "name": "BioShock 2",
+      "playtime_hours": 0,
+      "appid": 8850
+    },
+    {
+      "name": "Freedom Force vs. the 3rd Reich",
+      "playtime_hours": 0,
+      "appid": 8890
+    },
+    {
+      "name": "DOOM 3",
+      "playtime_hours": 0,
+      "appid": 9050
+    },
+    {
+      "name": "DOOM 3: Resurrection of Evil",
+      "playtime_hours": 0,
+      "appid": 9070
+    },
+    {
+      "name": "Disciples III: Reincarnation",
+      "playtime_hours": 0,
+      "appid": 10270
+    },
+    {
+      "name": "Manhunt",
+      "playtime_hours": 0,
+      "appid": 12130
+    },
+    {
+      "name": "Grand Theft Auto: Vice City",
+      "playtime_hours": 0,
+      "appid": 12240
+    },
+    {
+      "name": "Jagged Alliance 2 Gold: Unfinished Business",
+      "playtime_hours": 0,
+      "appid": 12380
+    },
+    {
+      "name": "Tom Clancy's Splinter Cell: Double Agent",
+      "playtime_hours": 0,
+      "appid": 13580
+    },
+    {
+      "name": "Crysis Wars",
+      "playtime_hours": 0,
+      "appid": 17340
+    },
+    {
+      "name": "Call of Cthulhu: Dark Corners of the Earth",
+      "playtime_hours": 0,
+      "appid": 22340
+    },
+    {
+      "name": "Aquaria",
+      "playtime_hours": 0,
+      "appid": 24420
+    },
+    {
+      "name": "Dark Sector",
+      "playtime_hours": 0,
+      "appid": 29900
+    },
+    {
+      "name": "Tom Clancy's Splinter Cell: Conviction",
+      "playtime_hours": 0,
+      "appid": 33220
+    },
+    {
+      "name": "Alpha Protocol",
+      "playtime_hours": 0,
+      "appid": 34010
+    },
+    {
+      "name": "Toki Tori",
+      "playtime_hours": 0,
+      "appid": 38700
+    },
+    {
+      "name": "Supreme Commander 2",
+      "playtime_hours": 0,
+      "appid": 40100
+    },
+    {
+      "name": "Mafia",
+      "playtime_hours": 0,
+      "appid": 40990
+    },
+    {
+      "name": "Metro: Last Light Complete Edition",
+      "playtime_hours": 0,
+      "appid": 43160
+    },
+    {
+      "name": "Borderlands 2",
+      "playtime_hours": 0,
+      "appid": 49520
+    },
+    {
+      "name": "The Polynomial",
+      "playtime_hours": 0,
+      "appid": 67000
+    },
+    {
+      "name": "SEGA Bass Fishing",
+      "playtime_hours": 0,
+      "appid": 71240
+    },
+    {
+      "name": "Hydrophobia: Prophecy",
+      "playtime_hours": 0,
+      "appid": 92000
+    },
+    {
+      "name": "Disciples III: Resurrection",
+      "playtime_hours": 0,
+      "appid": 200670
+    },
+    {
+      "name": "Deus Ex: Human Revolution - The Missing Link",
+      "playtime_hours": 0,
+      "appid": 201280
+    },
+    {
+      "name": "Alan Wake's American Nightmare",
+      "playtime_hours": 0,
+      "appid": 202750
+    },
+    {
+      "name": "DOOM 3: BFG Edition",
+      "playtime_hours": 0,
+      "appid": 208200
+    },
+    {
+      "name": "Deponia",
+      "playtime_hours": 0,
+      "appid": 214340
+    },
+    {
+      "name": "Blood Bowl: Chaos Edition",
+      "playtime_hours": 0,
+      "appid": 216890
+    },
+    {
+      "name": "Borderlands 2 RU",
+      "playtime_hours": 0,
+      "appid": 217490
+    },
+    {
+      "name": "Unity of Command",
+      "playtime_hours": 0,
+      "appid": 218090
+    },
+    {
+      "name": "NiGHTS into Dreams...",
+      "playtime_hours": 0,
+      "appid": 219950
+    },
+    {
+      "name": "POSTAL",
+      "playtime_hours": 0,
+      "appid": 232770
+    },
+    {
+      "name": "Tom Clancy's Splinter Cell Blacklist",
+      "playtime_hours": 0,
+      "appid": 235600
+    },
+    {
+      "name": "RPG Maker XP",
+      "playtime_hours": 0,
+      "appid": 235900
+    },
+    {
+      "name": "Might & Magic X - Legacy",
+      "playtime_hours": 0,
+      "appid": 238750
+    },
+    {
+      "name": "Might & Magic VI",
+      "playtime_hours": 0,
+      "appid": 243380
+    },
+    {
+      "name": "Wizardry 6: Bane of the Cosmic Forge",
+      "playtime_hours": 0,
+      "appid": 245410
+    },
+    {
+      "name": "Wizardry 7: Crusaders of the Dark Savant",
+      "playtime_hours": 0,
+      "appid": 245430
+    },
+    {
+      "name": "Viscera Cleanup Detail: Shadow Warrior",
+      "playtime_hours": 0,
+      "appid": 255520
+    },
+    {
+      "name": "Etherlords",
+      "playtime_hours": 0,
+      "appid": 270770
+    },
+    {
+      "name": "Serena",
+      "playtime_hours": 0,
+      "appid": 272060
+    },
+    {
+      "name": "Descent 3",
+      "playtime_hours": 0,
+      "appid": 273590
+    },
+    {
+      "name": "O.R.B: Off-World Resource Base",
+      "playtime_hours": 0,
+      "appid": 281390
+    },
+    {
+      "name": "100% Orange Juice",
+      "playtime_hours": 0,
+      "appid": 282800
+    },
+    {
+      "name": "Realms of the Haunting",
+      "playtime_hours": 0,
+      "appid": 292390
+    },
+    {
+      "name": "Amerzone: The Explorer’s Legacy (1999)",
+      "playtime_hours": 0,
+      "appid": 302190
+    },
+    {
+      "name": "Necronomicon: The Dawning of Darkness",
+      "playtime_hours": 0,
+      "appid": 302390
+    },
+    {
+      "name": "Sleeping Dogs: Definitive Edition",
+      "playtime_hours": 0,
+      "appid": 307690
+    },
+    {
+      "name": "Robin's Island Adventure",
+      "playtime_hours": 0,
+      "appid": 323260
+    },
+    {
+      "name": "RIOT - Civil Unrest",
+      "playtime_hours": 0,
+      "appid": 342310
+    },
+    {
+      "name": "CRYPTARK",
+      "playtime_hours": 0,
+      "appid": 344740
+    },
+    {
+      "name": "ARK: Survival Evolved",
+      "playtime_hours": 0,
+      "appid": 346110
+    },
+    {
+      "name": "The Descendant",
+      "playtime_hours": 0,
+      "appid": 351940
+    },
+    {
+      "name": "Weapon of Choice",
+      "playtime_hours": 0,
+      "appid": 373600
+    },
+    {
+      "name": "Dead Island Riptide Definitive Edition",
+      "playtime_hours": 0,
+      "appid": 383180
+    },
+    {
+      "name": "Hue",
+      "playtime_hours": 0,
+      "appid": 383270
+    },
+    {
+      "name": "Bulb Boy",
+      "playtime_hours": 0,
+      "appid": 390290
+    },
+    {
+      "name": "Pony Island",
+      "playtime_hours": 0,
+      "appid": 405640
+    },
+    {
+      "name": "ARK: Survival Of The Fittest",
+      "playtime_hours": 0,
+      "appid": 407530
+    },
+    {
+      "name": "12 is Better Than 6",
+      "playtime_hours": 0,
+      "appid": 410110
+    },
+    {
+      "name": "Pankapu",
+      "playtime_hours": 0,
+      "appid": 418670
+    },
+    {
+      "name": "Drawful 2",
+      "playtime_hours": 0,
+      "appid": 442070
+    },
+    {
+      "name": "TGV Voyages Train Simulator",
+      "playtime_hours": 0,
+      "appid": 443910
+    },
+    {
+      "name": "Crystal Crisis",
+      "playtime_hours": 0,
+      "appid": 447700
+    },
+    {
+      "name": "The Deed: Dynasty",
+      "playtime_hours": 0,
+      "appid": 460960
+    },
+    {
+      "name": "Ninja Stealth",
+      "playtime_hours": 0,
+      "appid": 485450
+    },
+    {
+      "name": "Minion Masters",
+      "playtime_hours": 0,
+      "appid": 489520
+    },
+    {
+      "name": "Figment",
+      "playtime_hours": 0,
+      "appid": 493540
+    },
+    {
+      "name": "911 Operator",
+      "playtime_hours": 0,
+      "appid": 503560
+    },
+    {
+      "name": "Along the Edge",
+      "playtime_hours": 0,
+      "appid": 504390
+    },
+    {
+      "name": "Bomber Crew",
+      "playtime_hours": 0,
+      "appid": 537800
+    },
+    {
+      "name": "Police Stories",
+      "playtime_hours": 0,
+      "appid": 539470
+    },
+    {
+      "name": "Battlestar Galactica Deadlock",
+      "playtime_hours": 0,
+      "appid": 544610
+    },
+    {
+      "name": "Warhammer: Vermintide 2",
+      "playtime_hours": 0,
+      "appid": 552500
+    },
+    {
+      "name": "Vampire: The Masquerade - Redemption",
+      "playtime_hours": 0,
+      "appid": 559680
+    },
+    {
+      "name": "Just Ignore Them",
+      "playtime_hours": 0,
+      "appid": 561770
+    },
+    {
+      "name": "Distant Space",
+      "playtime_hours": 0,
+      "appid": 569610
+    },
+    {
+      "name": "Winexy",
+      "playtime_hours": 0,
+      "appid": 577740
+    },
+    {
+      "name": "Black Desert",
+      "playtime_hours": 0,
+      "appid": 582660
+    },
+    {
+      "name": "Minimalism",
+      "playtime_hours": 0,
+      "appid": 585690
+    },
+    {
+      "name": "Graveyard Keeper",
+      "playtime_hours": 0,
+      "appid": 599140
+    },
+    {
+      "name": "Moonlighter",
+      "playtime_hours": 0,
+      "appid": 606150
+    },
+    {
+      "name": "Paradox Soul",
+      "playtime_hours": 0,
+      "appid": 610570
+    },
+    {
+      "name": "House Flipper",
+      "playtime_hours": 0,
+      "appid": 613100
+    },
+    {
+      "name": "NEXT JUMP: Shmup Tactics",
+      "playtime_hours": 0,
+      "appid": 624690
+    },
+    {
+      "name": "Remothered: Tormented Fathers",
+      "playtime_hours": 0,
+      "appid": 633360
+    },
+    {
+      "name": "Narvas",
+      "playtime_hours": 0,
+      "appid": 640700
+    },
+    {
+      "name": "Car Mechanic Simulator 2018",
+      "playtime_hours": 0,
+      "appid": 645630
+    },
+    {
+      "name": "Grav Blazer",
+      "playtime_hours": 0,
+      "appid": 657590
+    },
+    {
+      "name": "Field of Glory II",
+      "playtime_hours": 0,
+      "appid": 660160
+    },
+    {
+      "name": "Yet Another Zombie Defense HD",
+      "playtime_hours": 0,
+      "appid": 674750
+    },
+    {
+      "name": "Trivia Vault: Classic Rock Trivia",
+      "playtime_hours": 0,
+      "appid": 690240
+    },
+    {
+      "name": "Grav Blazer Squared",
+      "playtime_hours": 0,
+      "appid": 703530
+    },
+    {
+      "name": "Trivia Vault: Mini Mixed Trivia",
+      "playtime_hours": 0,
+      "appid": 706320
+    },
+    {
+      "name": "Distant Space 2",
+      "playtime_hours": 0,
+      "appid": 729460
+    },
+    {
+      "name": "Zomborg",
+      "playtime_hours": 0,
+      "appid": 729720
+    },
+    {
+      "name": "Trivia Vault: Video Game Trivia Deluxe",
+      "playtime_hours": 0,
+      "appid": 730220
+    },
+    {
+      "name": "Puzzle Chambers",
+      "playtime_hours": 0,
+      "appid": 740410
+    },
+    {
+      "name": "AtmaSphere",
+      "playtime_hours": 0,
+      "appid": 753660
+    },
+    {
+      "name": "Odysseus Kosmos and his Robot Quest - Episode 1",
+      "playtime_hours": 0,
+      "appid": 769920
+    },
+    {
+      "name": "Trivia Vault Olympics Trivia",
+      "playtime_hours": 0,
+      "appid": 805880
+    },
+    {
+      "name": "Scheming Through The Zombie Apocalypse: The Beginning",
+      "playtime_hours": 0,
+      "appid": 813540
+    },
+    {
+      "name": "Trivia Vault: Boxing Trivia",
+      "playtime_hours": 0,
+      "appid": 821520
+    },
+    {
+      "name": "Trivia Vault: Movie Trivia",
+      "playtime_hours": 0,
+      "appid": 845970
+    },
+    {
+      "name": "Trivia Vault: Business Trivia",
+      "playtime_hours": 0,
+      "appid": 858420
+    },
+    {
+      "name": "Gravity Circuit",
+      "playtime_hours": 0,
+      "appid": 858710
+    },
+    {
+      "name": "Trivia Vault: Toy Trivia",
+      "playtime_hours": 0,
+      "appid": 860340
+    },
+    {
+      "name": "OneShift",
+      "playtime_hours": 0,
+      "appid": 862740
+    },
+    {
+      "name": "Death Fungeon",
+      "playtime_hours": 0,
+      "appid": 897630
+    },
+    {
+      "name": "Cybarian: The Time Travelling Warrior",
+      "playtime_hours": 0,
+      "appid": 928840
+    },
+    {
+      "name": "Spitkiss",
+      "playtime_hours": 0,
+      "appid": 949770
+    },
+    {
+      "name": "Peaky Blinders: Mastermind",
+      "playtime_hours": 0,
+      "appid": 1013310
+    },
+    {
+      "name": "Fantasy General II",
+      "playtime_hours": 0,
+      "appid": 1025440
+    },
+    {
+      "name": "Moonrise Fall",
+      "playtime_hours": 0,
+      "appid": 1035110
+    },
+    {
+      "name": "Dota Underlords",
+      "playtime_hours": 0,
+      "appid": 1046930
+    },
+    {
+      "name": "The Red Lantern",
+      "playtime_hours": 0,
+      "appid": 1053710
+    },
+    {
+      "name": "Drift86",
+      "playtime_hours": 0,
+      "appid": 1070580
+    },
+    {
+      "name": "Wild Terra 2: New Lands",
+      "playtime_hours": 0,
+      "appid": 1134700
+    },
+    {
+      "name": "SLUDGE LIFE",
+      "playtime_hours": 0,
+      "appid": 1144770
+    },
+    {
+      "name": "Space Crew: Legendary Edition",
+      "playtime_hours": 0,
+      "appid": 1176710
+    },
+    {
+      "name": "Tell Me Why",
+      "playtime_hours": 0,
+      "appid": 1180660
+    },
+    {
+      "name": "Streamer Life Simulator",
+      "playtime_hours": 0,
+      "appid": 1261040
+    },
+    {
+      "name": "Asterix & Obelix XXL",
+      "playtime_hours": 0,
+      "appid": 1261520
+    },
+    {
+      "name": "Artifact Foundry",
+      "playtime_hours": 0,
+      "appid": 1269260
+    },
+    {
+      "name": "Crowalt: Traces of the Lost Colony",
+      "playtime_hours": 0,
+      "appid": 1269500
+    },
+    {
+      "name": "The Life and Suffering of Sir Brante",
+      "playtime_hours": 0,
+      "appid": 1272160
+    },
+    {
+      "name": "Divine Knockout (DKO)",
+      "playtime_hours": 0,
+      "appid": 1294660
+    },
+    {
+      "name": "Ampersat",
+      "playtime_hours": 0,
+      "appid": 1356040
+    },
+    {
+      "name": "Armor Of Heroes",
+      "playtime_hours": 0,
+      "appid": 1368440
+    },
+    {
+      "name": "Field of Glory II: Medieval",
+      "playtime_hours": 0,
+      "appid": 1368870
+    },
+    {
+      "name": "Happy's Humble Burger Farm",
+      "playtime_hours": 0,
+      "appid": 1433340
+    },
+    {
+      "name": "Initial Drift Online",
+      "playtime_hours": 0,
+      "appid": 1456200
+    },
+    {
+      "name": "The Ramp",
+      "playtime_hours": 0,
+      "appid": 1506510
+    },
+    {
+      "name": "Machinika Museum",
+      "playtime_hours": 0,
+      "appid": 1507190
+    },
+    {
+      "name": "Distant Worlds 2",
+      "playtime_hours": 0,
+      "appid": 1531540
+    },
+    {
+      "name": "Hellslave",
+      "playtime_hours": 0,
+      "appid": 1608450
+    },
+    {
+      "name": "Universe For Sale",
+      "playtime_hours": 0,
+      "appid": 1627840
+    },
+    {
+      "name": "Nocturnal",
+      "playtime_hours": 0,
+      "appid": 1634080
+    },
+    {
+      "name": "HITMAN World of Assassination",
+      "playtime_hours": 0,
+      "appid": 1659040
+    },
+    {
+      "name": "Isle of Jura",
+      "playtime_hours": 0,
+      "appid": 1703140
+    },
+    {
+      "name": "Catch Me!",
+      "playtime_hours": 0,
+      "appid": 1741160
+    },
+    {
+      "name": "Smart Factory Tycoon",
+      "playtime_hours": 0,
+      "appid": 1755300
+    },
+    {
+      "name": "Capcom Arcade 2nd Stadium",
+      "playtime_hours": 0,
+      "appid": 1755910
+    },
+    {
+      "name": "Racine",
+      "playtime_hours": 0,
+      "appid": 1793170
+    },
+    {
+      "name": "Nomad Survival",
+      "playtime_hours": 0,
+      "appid": 1929870
+    },
+    {
+      "name": "Desktop Dungeons: Rewind",
+      "playtime_hours": 0,
+      "appid": 1976950
+    },
+    {
+      "name": "POPGOES Arcade",
+      "playtime_hours": 0,
+      "appid": 1986840
+    },
+    {
+      "name": "Barro GT",
+      "playtime_hours": 0,
+      "appid": 1990740
+    },
+    {
+      "name": "Dokimon",
+      "playtime_hours": 0,
+      "appid": 2019300
+    },
+    {
+      "name": "Islands of Insight",
+      "playtime_hours": 0,
+      "appid": 2071500
+    },
+    {
+      "name": "Shogun Showdown",
+      "playtime_hours": 0,
+      "appid": 2084000
+    },
+    {
+      "name": "SteamWorld Build",
+      "playtime_hours": 0,
+      "appid": 2134770
+    },
+    {
+      "name": "Bunny Guys!",
+      "playtime_hours": 0,
+      "appid": 2218460
+    },
+    {
+      "name": "Gigantosaurus: Dino Sports",
+      "playtime_hours": 0,
+      "appid": 2238260
+    },
+    {
+      "name": "Nice Day for Fishing",
+      "playtime_hours": 0,
+      "appid": 2393160
+    },
+    {
+      "name": "SMITE 2",
+      "playtime_hours": 0,
+      "appid": 2437170
+    },
+    {
+      "name": "GUNTOUCHABLES",
+      "playtime_hours": 0,
+      "appid": 2543510
+    },
+    {
+      "name": "WHAT THE PAK?!",
+      "playtime_hours": 0,
+      "appid": 2752710
+    },
+    {
+      "name": "Stickman Killing Zombie",
+      "playtime_hours": 0,
+      "appid": 2792610
+    },
+    {
+      "name": "Party Club",
+      "playtime_hours": 0,
+      "appid": 2796010
+    },
+    {
+      "name": "The Jackbox Megapicker",
+      "playtime_hours": 0,
+      "appid": 2828500
+    },
+    {
+      "name": "8AM",
+      "playtime_hours": 0,
+      "appid": 2835590
+    },
+    {
+      "name": "Content Warning",
+      "playtime_hours": 0,
+      "appid": 2881650
+    },
+    {
+      "name": "Kitchen Wars",
+      "playtime_hours": 0,
+      "appid": 2955840
+    },
+    {
+      "name": "Train Sim World® 5",
+      "playtime_hours": 0,
+      "appid": 2967990
+    },
+    {
+      "name": "Fireside Feelings",
+      "playtime_hours": 0,
+      "appid": 2990600
+    },
+    {
+      "name": "Paragnosia",
+      "playtime_hours": 0,
+      "appid": 3017580
+    },
+    {
+      "name": "Cakey's Twisted Bakery",
+      "playtime_hours": 0,
+      "appid": 3028500
+    },
+    {
+      "name": "METAL GEAR SOLID MASTER COLLECTION Vol.2 BONUS CONTENT",
+      "playtime_hours": 0,
+      "appid": 3036720
+    },
+    {
+      "name": "Unplagued",
+      "playtime_hours": 0,
+      "appid": 3062930
+    },
+    {
+      "name": "World Crafter TD",
+      "playtime_hours": 0,
+      "appid": 3098890
+    },
+    {
+      "name": "Pet Lands",
+      "playtime_hours": 0,
+      "appid": 3144950
+    },
+    {
+      "name": "Grand Theft Auto V Enhanced",
+      "playtime_hours": 0,
+      "appid": 3240220
+    },
+    {
+      "name": "Overlooting",
+      "playtime_hours": 0,
+      "appid": 3410180
+    },
+    {
+      "name": "Overcome Your Fears - Caretaker",
+      "playtime_hours": 0,
+      "appid": 3550490
+    },
+    {
+      "name": "Terrors to Unveil - Day Off",
+      "playtime_hours": 0,
+      "appid": 3587490
+    },
+    {
+      "name": "Train Sim World® 6",
+      "playtime_hours": 0,
+      "appid": 3656800
+    },
+    {
+      "name": "DEAD OR ALIVE 6 Last Round",
+      "playtime_hours": 0,
+      "appid": 4144680
+    },
+    {
+      "name": "Train Sim World® 7",
+      "playtime_hours": 0,
+      "appid": 4678800
+    },
+    {
+      "name": "Call of Duty®: Modern Warfare® 4 - Beta",
+      "playtime_hours": 0,
+      "appid": 4783780
+    }
+  ],
+  "source": "GameIndustry.eu"
+}
